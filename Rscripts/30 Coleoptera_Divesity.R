@@ -2,7 +2,7 @@
 
 # contact: Tharaka S. Priyadarshana; tharakas001@e.ntu.edu.sg; tharakas.priyadarshana@gmail.com
 
-# Article title: Investigating the biodiversity benefits of different kinds of heterogeneity in agricultural landscapes: Comparing crop versus landscape and compositional versus configurational heterogeneity
+# Article title: Crop and landscape heterogeneity increase biodiversity in agricultural landscapes: A global review and meta-analysis
 
 # Journal: Ecology Letters
 
