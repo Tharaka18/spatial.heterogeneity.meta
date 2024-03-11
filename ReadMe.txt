@@ -12,7 +12,7 @@
 
 ## Citation for data 
 
-# Priyadarshana, T.S., Martin, E.A., Sirami, C., Woodcock, B.A., Goodale, E., Mart?nez-N??ez, C., et al. (2024). Data from: Crop and landscape heterogeneity increase biodiversity in agricultural landscapes: A global review and meta-analysis [dataset]. Dryad Digital Repository, https://doi.org/10.5061/dryad.dbrv15f7j. 
+# Priyadarshana, T.S., Martin, E.A., Sirami, C., Woodcock, B.A., Goodale, E., Martínez-Núñez, C., et al. (2024). Data from: Crop and landscape heterogeneity increase biodiversity in agricultural landscapes: A global review and meta-analysis [dataset]. Dryad Digital Repository, https://doi.org/10.5061/dryad.dbrv15f7j. 
 
 ####################################################################################################################################################################################################################################
 
